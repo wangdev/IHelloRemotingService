@@ -1,0 +1,7 @@
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloRemotingService\bin\Debug\HelloRemotingService.dll
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloRemotingService\bin\Debug\HelloRemotingService.pdb
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloRemotingService\bin\Debug\IHelloRemotingService.dll
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloRemotingService\bin\Debug\IHelloRemotingService.pdb
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.csprojResolveAssemblyReference.cache
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.dll
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.pdb

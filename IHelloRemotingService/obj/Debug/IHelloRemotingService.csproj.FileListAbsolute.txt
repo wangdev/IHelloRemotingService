@@ -1,0 +1,4 @@
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\IHelloRemotingService\bin\Debug\IHelloRemotingService.dll
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\IHelloRemotingService\bin\Debug\IHelloRemotingService.pdb
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.dll
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.pdb

@@ -1,0 +1,11 @@
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloServiceClient\bin\Debug\HelloServiceClient.exe
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloServiceClient\bin\Debug\IHelloRemotingService.dll
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloServiceClient\bin\Debug\IHelloRemotingService.pdb
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloServiceClient\obj\Debug\HelloServiceClient.csprojResolveAssemblyReference.cache
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloServiceClient\obj\Debug\HelloServiceClient.Form1.resources
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloServiceClient\obj\Debug\HelloServiceClient.Properties.Resources.resources
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloServiceClient\obj\Debug\HelloServiceClient.csproj.GenerateResource.Cache
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloServiceClient\obj\Debug\HelloServiceClient.exe
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloServiceClient\obj\Debug\HelloServiceClient.pdb
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloServiceClient\bin\Debug\HelloServiceClient.exe.config
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\HelloServiceClient\bin\Debug\HelloServiceClient.pdb

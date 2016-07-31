@@ -1,0 +1,10 @@
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\HelloRemotingService.dll
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\IHelloRemotingService.dll
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\HelloRemotingService.pdb
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\IHelloRemotingService.pdb
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.csprojResolveAssemblyReference.cache
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.exe
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\RemotingServiceHost\obj\Debug\RemotingServiceHost.pdb
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe.config
+D:\OneDrive\Ywang\Projects\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.pdb
